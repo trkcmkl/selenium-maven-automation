@@ -1,5 +1,7 @@
 package com.dice;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.concurrent.TimeUnit;
 
 import javax.management.RuntimeErrorException;
@@ -36,6 +38,8 @@ public class Dice_job_search {
 		}
 		String a=dr.findElement(By.id("posiCountMobileId")).getText();
 		System.out.println(a);
+		
+		System.out.println("test complete"+ LocalDateTime.now());
 		Thread.sleep(2000);
 		dr.close();
 	}
