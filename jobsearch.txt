@@ -1,0 +1,20 @@
+JavaScript
+Python
+Java
+Ruby
+C
+C++
+HTML
+CSS
+R
+Assembly
+PHP
+Perl
+SQL
+Selenium
+Data Science
+SDET
+Junior Developer
+Quality Assurance
+Full Stack Developer
+Artificial Intelligence
